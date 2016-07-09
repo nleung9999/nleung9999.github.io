@@ -1,0 +1,146 @@
+body {
+  background-image: url('http://a3.mzstatic.com/us/r30/Purple69/v4/c5/25/46/c52546bf-132a-4d6c-162c-8d7d9bcb07c0/screen640x640.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  cursor: url('http://icons.iconarchive.com/icons/calle/smith-and-wesson/16/Target-icon.png'),auto;
+}
+
+h1 {
+  font-size:100px;
+    color: #ffffff; 
+}
+
+#Play {
+  background: #ffffff;
+color: #ff0000;
+  font-size: 30px;
+  border: 50px double  
+#ff0000;
+} 
+
+#Play:hover {
+  background: #002db3;
+}
+
+#banana {
+  display: block;
+  margin: auto;
+}
+
+a {
+font-size: 40px;
+color: #e60000;
+}
+
+#Button2 {
+  background: transparent;
+  border: none;
+}
+
+#Button3 {
+  background: transparent;
+  border: none;
+}
+
+#traindiv {
+position: absolute;
+  top: 500px;
+}
+
+#enemy1 {
+  position: absolute;
+  top: 300px;
+  left: 350px; 
+}
+ 
+#enemy2 {
+  position: absolute;
+  top: 300px;
+  right: 300px;
+  }
+
+#enemy3 {
+  position: absolute;
+  top: 600px;
+  left: 800px;
+  }
+
+#enemy4 {
+  position: absolute;
+  top: 800px;
+  right: 550px;}
+
+#enemy5 {
+  position: absolute;
+  top: 450px;
+  left: 960px;
+   width: 150px; 
+  }
+
+#Button2 {
+  position: absolute;
+  top: 710px;
+  left: 1000px;
+}
+
+#Button3 {
+  position: absolute;
+  top: 710px;
+  left: 1000px;
+}
+
+#GoldRed {
+  position: absolute;
+  top: 560px;
+  left: 600px
+}
+
+#GoldPrime {
+  position: absolute;
+  top: 570px;
+  left: 570px
+}
+
+h4 {
+  color: #e6e600
+}
+
+#Scorebox {
+  border: 3px double #00ffff;
+  background: #ff0000;
+}
+
+#Scorebox:hover {
+  border: 3px double #00ffff;
+  background: #ffffff;
+}
+
+#Miniguysbox {
+  display: block;
+  position: absolute;
+}
+
+#comicbutton {
+  float: right;
+}
+
+#birdcomic {
+  z-index: 100;
+  position: absolute;
+  width: 100%;
+}
+
+.moveMiniGuys {
+  margin-top: 100px;
+}
+
+h5 {
+  text-align: right;
+}
+
+
+#Reset {
+  position: absolute;
+  top: 780px;
+  left: 850px;
